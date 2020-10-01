@@ -1,6 +1,8 @@
 # HTML Portfolio
 
-You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique.
+You'll create a personal portfolio web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique. And with some exciting css designs that we will provide you it will become a very unique piece of web work 
+We are so glad that you guys SUPPRoT us so much that the thing which keeps us motivated .
+THANK YOU guys !! #StayHOME#STAYsafe. 
 
 ## What You'll Build
 
